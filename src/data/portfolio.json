@@ -1,0 +1,169 @@
+{
+  "nav": ["Home", "About", "Skills", "Works", "Contact"],
+  "brand": {
+    "mark": "M",
+    "name": "Manoj"
+  },
+  "hero": {
+    "eyebrow": "Hello I'm",
+    "firstName": "Manoj",
+    "lastName": "Kumar",
+    "prefix": "A passionate",
+    "roles": ["Full Stack Developer", "MERN Stack Developer", "React Developer"],
+    "cta": {
+      "label": "Say Hello",
+      "href": "mailto:Manojkumar.dev001@gmail.com"
+    },
+    "cv": {
+      "label": "Download CV",
+      "href": "/ManojKumar_Resume_0.pdf"
+    },
+    "imageAlt": "Manoj Kumar portfolio visual"
+  },
+  "social": [
+    {
+      "label": "gh",
+      "href": "https://github.com/manojkumar"
+    },
+    {
+      "label": "in",
+      "href": "https://linkedin.com/in/manoj42"
+    },
+    {
+      "label": "mail",
+      "href": "mailto:Manojkumar.dev001@gmail.com"
+    }
+  ],
+  "about": {
+    "eyebrow": "About Me",
+    "title": "I develop systems that work",
+    "paragraphs": [
+      "Full Stack Developer with 1+ year of experience building and maintaining a live production e-commerce platform at Seelan Graphics Pvt Ltd.",
+      "I work with React, Node.js, Express.js, and MongoDB to build secure authentication, role-based access, responsive interfaces, and RESTful APIs for real users."
+    ],
+    "details": [
+      {
+        "label": "Name",
+        "value": "Manoj Kumar"
+      },
+      {
+        "label": "Phone",
+        "value": "+91 93618 81941"
+      },
+      {
+        "label": "Location",
+        "value": "Coimbatore, Tamil Nadu"
+      },
+      {
+        "label": "Email",
+        "value": "Manojkumar.dev001@gmail.com"
+      },
+      {
+        "label": "Occupation",
+        "value": "Full Stack Developer"
+      },
+      {
+        "label": "Experience",
+        "value": "1+ Year"
+      },
+      {
+        "label": "Education",
+        "value": "BCA"
+      },
+      {
+        "label": "Freelance",
+        "value": "Available"
+      }
+    ],
+    "signature": "Manoj Kumar",
+    "designation": "Full Stack Developer"
+  },
+  "skills": {
+    "eyebrow": "My Skills",
+    "title": "MERN stack skills for real product work",
+    "summary": "A focused full-stack toolkit shaped by production e-commerce work, training projects, and desktop/mobile application builds.",
+    "stats": [
+      {
+        "value": "1+",
+        "label": "Year Experience"
+      },
+      {
+        "value": "15+",
+        "label": "UI Components"
+      },
+      {
+        "value": "3",
+        "label": "User Roles"
+      }
+    ],
+    "groups": [
+      {
+        "title": "Frontend",
+        "accent": "Interface",
+        "items": ["React.js", "React Native", "JavaScript ES6+", "TypeScript", "HTML5", "CSS3", "Tailwind CSS", "Redux"]
+      },
+      {
+        "title": "Backend",
+        "accent": "APIs",
+        "items": ["Node.js", "Express.js", "REST APIs", "JWT Authentication", "Role-Based Access Control"]
+      },
+      {
+        "title": "Data & Tools",
+        "accent": "Workflow",
+        "items": ["MongoDB", "Firebase", "SQL Basic", "Git", "GitHub", "Postman", "VS Code", "Tauri"]
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "Selected Works",
+    "title": "Projects built across web, desktop, and mobile",
+    "summary": "A compact look at full-stack builds that show authentication, dashboards, ordering flows, API integration, and responsive interfaces.",
+    "items": [
+      {
+        "name": "CRM & Desktop App",
+        "type": "Desktop CRM",
+        "description": "Cross-platform CRM with role-based dashboards, user management, and workflow automation for daily business operations.",
+        "stack": ["React", "Tauri", "Node.js", "Express.js", "SQLite"],
+        "highlight": "Role-based dashboards",
+        "featured": true
+      },
+      {
+        "name": "Food Delivery Web App",
+        "type": "Web Platform",
+        "description": "Full-stack food ordering app with menu listing, cart management, order tracking, and REST API powered data.",
+        "stack": ["React", "Node.js", "Express.js", "MongoDB"],
+        "highlight": "Cart and order flow"
+      },
+      {
+        "name": "E-Commerce Mobile App",
+        "type": "Mobile App",
+        "description": "API-driven shopping experience with product lists, category filters, and dynamic mobile screens.",
+        "stack": ["React Native", "Node.js", "REST APIs"],
+        "highlight": "Mobile shopping UI"
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let's build something useful",
+    "summary": "Open to full-stack developer roles, freelance builds, and product teams that need reliable React, Node.js, and MongoDB work.",
+    "email": "Manojkumar.dev001@gmail.com",
+    "phone": "+91 93618 81941",
+    "location": "Coimbatore, Tamil Nadu",
+    "availability": "Available for work",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "href": "https://linkedin.com/in/manoj42"
+      },
+      {
+        "label": "GitHub",
+        "href": "https://github.com/manojkumar"
+      },
+      {
+        "label": "Email",
+        "href": "mailto:Manojkumar.dev001@gmail.com"
+      }
+    ]
+  }
+}

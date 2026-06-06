@@ -1,0 +1,51 @@
+MANOJ KUMAR
+Full Stack Developer - React - Node.js - MongoDB - Express.js
+
+Location: Coimbatore, Tamil Nadu
+Phone: +91 93618 81941
+Email: Manojkumar.dev001@gmail.com
+LinkedIn: linkedin.com/in/manoj42
+GitHub: github.com/manojkumar
+
+Professional Summary
+Full Stack Developer with 1+ year of experience building and maintaining a live production e-commerce platform at Seelan Graphics Pvt Ltd. Delivered JWT authentication, role-based access control for 3 user types, 15+ responsive UI components, and RESTful APIs using React, Node.js, Express.js, and MongoDB. Completed MERN stack training at Edureka Learning Center and independently built a desktop CRM, food delivery app, and mobile e-commerce app. Seeking a product engineering role to build scalable user-facing features.
+
+Technical Skills
+Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3
+Frontend: React.js, React Native, Tailwind CSS, Redux
+Backend: Node.js, Express.js, REST APIs, JWT Authentication, Role-Based Access Control
+Database: MongoDB, Firebase, SQL basic
+Tools: Git, GitHub, Postman, VS Code, Tauri
+
+Work Experience
+Full Stack Web Developer
+Seelan Graphics Pvt Ltd - Coimbatore
+Nov 2024 - Present
+- Designed and implemented a JWT-based authentication system with role-based access control for 3 user roles.
+- Built and maintained the frontend of a production e-commerce platform using React.js.
+- Developed reusable UI components with consistent mobile and desktop layouts.
+- Built RESTful APIs using Node.js and Express.js connected to MongoDB.
+- Reduced average page load time by around 35% by refactoring React components and adding lazy image loading.
+- Worked in a 4-member team on feature planning, code reviews, and production updates.
+
+MERN Full Stack Developer Training
+Edureka Learning Center
+Feb 2024 - Sep 2024
+- Completed structured full-stack training covering React.js, Node.js, Express.js, and MongoDB.
+- Built full-stack applications with REST API integration, user authentication, and CRUD operations.
+- Practised responsive UI development using JavaScript, HTML5, and CSS3.
+
+Projects
+CRM & Desktop App - React, Tauri, Node.js, Express.js, SQLite
+Cross-platform desktop CRM with role-based dashboards, user management, and workflow automation.
+
+Food Delivery Web App - React, Node.js, Express.js, MongoDB
+Full-stack food ordering platform with menu listing, cart management, order tracking, and REST APIs.
+
+E-Commerce Mobile App - React Native, Node.js, REST APIs
+Mobile e-commerce application with product listings, category filtering, and API-driven dynamic data.
+
+Education
+Bachelor of Computer Applications (BCA)
+Park's Arts and Science College, Coimbatore
+2020 - 2023
