@@ -262,9 +262,37 @@ nav a:hover {
   top: 24%;
   right: 2.8vw;
   display: grid;
-  gap: 40px;
-  font-size: 1.5rem;
-  font-weight: 800;
+  gap: 22px;
+}
+
+.social a {
+  display: grid;
+  width: 46px;
+  aspect-ratio: 1;
+  place-items: center;
+  color: #fff;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 50%;
+  transition:
+    background 180ms ease,
+    border-color 180ms ease,
+    color 180ms ease,
+    transform 180ms ease;
+}
+
+.social a:hover,
+.social a:focus-visible {
+  color: #fff;
+  background: #d55344;
+  border-color: #d55344;
+  transform: translateY(-3px);
+}
+
+.social svg {
+  width: 21px;
+  height: 21px;
+  fill: currentColor;
 }
 
 .about-section {
@@ -1015,7 +1043,12 @@ nav a:hover {
     position: static;
     display: flex;
     justify-content: center;
+    gap: 14px;
     padding: 28px 0 44px;
+  }
+
+  .social a {
+    width: 44px;
   }
 
   .about-section {
